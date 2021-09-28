@@ -1,0 +1,66 @@
+﻿div{
+    width:200px;
+    height:200px;
+    background-color:crimson;
+    border:10px solid black;
+    border-radius:15px;
+    float:left;
+    transition:1s;
+
+
+
+}
+div:hover{
+
+    cursor:pointer;
+    background-color:lime;
+    transform:rotate(360deg);
+
+}
+#animasyon{
+
+    position:absolute;
+
+
+}
+#kutucuk{
+
+    position:absolute;
+    pointer-events:all;
+
+}
+#sabit{
+
+    position:fixed;
+    margin-top:300px;
+
+
+
+}
+    
+
+
+
+
+
+   
+
+    
+    
+
+
+    
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
